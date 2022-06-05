@@ -16,7 +16,7 @@ To run the program you just need to type the command "make" to compile the files
 
 here are the login and passwords of the 3 users already entered :
 
-albant
+alban
 al8545
 student
 mathis
