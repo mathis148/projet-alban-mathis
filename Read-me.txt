@@ -1,0 +1,34 @@
+Hello,
+welcome to our library project
+This library is coded in C
+There are two categories which are teachers and students when you arrive on the interface you can create an account and specify your group.
+Then you can log in and the program will check your username and password.
+Once logged in the interface will change and you will be able to borrow books, return them and add new books if you are a teacher.
+Our library is still small at the moment you can only borrow one book at a time to allow all students to have access to books.
+There is only one copy of each book. If the book is already borrowed, you will have to wait until it is returned before you can borrow it.
+To borrow a book you can use its title, author, or ID.
+Technical details :
+Our program uses 3 .c files, 1 .h file and 3 .txt files.
+The first file main.c corresponds to the very beginning of the program it directs us then towards the page of connection and creation of account Signup.c
+Once connected you will arrive on connectedmenue.c
+The three .txt files are dedicated to store the identifiers and passwords for one, the list of books for the other and the last one for the borrowed books and its borrower.
+To run the program you just need to type the command "make" to compile the files and then "./program"
+
+here are the login and passwords of the 3 users already entered :
+
+albant
+al8545
+student
+mathis
+1512
+student
+michel
+mimi54
+teacher
+
+
+Have fun on our library!
+
+
+
+Albant rouchonnat and Mathis Contassot
